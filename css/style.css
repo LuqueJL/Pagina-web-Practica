@@ -1,0 +1,51 @@
+
+h1{
+    text-align: center;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+div{
+    width: 70%;
+    margin: auto;
+}
+
+div nav ul li a{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    display: block;
+    
+}
+div nav ul li{
+    width: 100px;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+div nav ul{
+    text-align: center;
+    background-color: black;
+    
+}
+div nav ul li:hover{
+    background-color: blue;
+}
+
+.fondo{
+    height: 100%;
+    width: 70%;
+    margin:auto;
+    background-color: grey;
+    padding-top: 30px;
+}
+
+.contenido2{
+    margin-bottom: 50px;
+    width: 90%;
+    height: 45%;
+    background-color: black;
+    border-radius: 10px;
+}
